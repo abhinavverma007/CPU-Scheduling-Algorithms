@@ -12,11 +12,11 @@ Input
 3) List of run time
 4) time quantum
 
-Example:
-3
-0 1 4
-5 2 3
-3
+Example:<br>
+3<br>
+0 1 4 <br>
+5 2 3<br>
+3<br>
 
 Output:
 2.33
